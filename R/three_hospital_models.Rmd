@@ -1,0 +1,20 @@
+---
+title: "Three hospital models"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(leaflet)
+load("leaflet_maps.Rda")
+```
+
+
+## Model 3 - Royal Adelaide Hospital + Flinders Medical Centre + <br/>Lyell McEwin Hospital
+
+
+```{r, echo=FALSE}
+map.3a
+```
+
+
+

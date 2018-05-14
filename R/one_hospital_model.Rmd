@@ -1,0 +1,19 @@
+---
+title: "Two hospital models"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(leaflet)
+load("leaflet_maps.Rda")
+```
+
+
+## Model 1a - Royal Adelaide Hospital
+
+
+```{r, echo=FALSE}
+map.1a
+```
+
+
