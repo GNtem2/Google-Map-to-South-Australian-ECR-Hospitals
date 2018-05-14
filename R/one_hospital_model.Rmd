@@ -12,7 +12,7 @@ load("leaflet_maps.Rda")
 ## Model 1a - Royal Adelaide Hospital
 
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, fig.width = 5, fig.height = 9 }
 map.1a
 ```
 

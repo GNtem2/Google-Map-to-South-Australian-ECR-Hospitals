@@ -12,7 +12,7 @@ load("leaflet_maps.Rda")
 ## All models on one map
 
 
-```{r, echo=FALSE, fig.height=8}
+```{r, echo=FALSE, fig.width = 5, fig.height = 9}
 map.all
 ```
 
