@@ -9,7 +9,7 @@ load("leaflet_maps.Rda")
 ```
 
 
-## Model 3 - Royal Adelaide Hospital + Flinders Medical Centre + <br/>Lyell McEwin Hospital
+## Model 3 - Royal Adelaide Hospital + <br/>Flinders Medical Centre + <br/>Lyell McEwin Hospital
 
 
 ```{r, echo=FALSE, fig.width = 5, fig.height = 9}
